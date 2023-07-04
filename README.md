@@ -2,41 +2,7 @@
 
   <img src="./README_Images/icon.png" alt="logo" width="200" height="auto" />
   
-  # Instagram React Native  Clone!
-
-### :camera: Screenshots
-#### Welcome Screen
-#### Sign in Screen
-#### Sign up Screen
-#### Home Screen
-#### Comments Screen
-#### New Post Screen
-#### Search Screen
-#### Reels Screen
-#### Settings Screen
-
-
-
-## :books: Tech
-<details>
-  <summary>Front End</summary>
-  <ul>
-  
-    <li><a href="https://docs.expo.dev/workflow/expo-cli">Expo</a></li>
-    <li><a href="https://reactnative.dev">React Native</a></li>
-    <li><a href="https://reactnavigation.org/docs/">React Navigation</a></li>
-  </ul>
-</details>
-
-
-<details>
-  <summary>Back End</summary>
-  <ul>
-    <li><a href="https://www.firebase.com/">Firebase</a></li>
-  </ul>
-</details>
-
-## :car: Getting Started
+# Instagram React Native  Clone!
 
 ### :gear: Installation
 
@@ -71,4 +37,5 @@ npm install --global expo
 
 # Expo Publish
 exp://exp.host/@brndryden/instagram-bdd-clone?release-channel=default
+
 https://expo.dev/accounts/brndryden/projects/instagram-bdd-clone
