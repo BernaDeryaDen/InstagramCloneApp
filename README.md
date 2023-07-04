@@ -3,20 +3,6 @@
   <img src="./README_Images/icon.png" alt="logo" width="200" height="auto" />
   
   # Instagram React Native  Clone!
-  
-  <p>
-Instagram Clone with REACT NATIVE! ( Navigation, Context api, Firebase & Expo)
-  </p>
-  
-  
-
-
-<a href="#" target="_blank">![](https://img.shields.io/badge/Ios%2FAndroid-Up-green)</a>
-![](https://img.shields.io/badge/Maintained-Yes-indigo)
-![](https://img.shields.io/github/Nathan-Somto/Instagram-rn-clone/forks/)
-![](https://img.shields.io/github/Nathan-Somto/Instagram-rn-clone/stars/)
-![](https://img.shields.io/github/Nathan-Somto/Instagram-rn-clone/issues/)
-![](https://img.shields.io/github/Nathan-Somto/Instagram-rn-clone/last-commit/)
 
 <h4>
     <a href="">View Demo</a>
@@ -29,16 +15,7 @@ Instagram Clone with REACT NATIVE! ( Navigation, Context api, Firebase & Expo)
   </h4>
 </div>
 
-## :notebook_with_decorative_cover: Table of Contents
 
-- [About the Project](#star2-about-the-project)
-  - [Screenshots](#camera-screenshots)
-  - [Tech Stack](#books-tech)
-  - [Features](#sparkles-features)
-- [Getting Started](#car-getting-started)
-   - [Installation](#gear-installation)
-- [Contributors](#busts_in_silhouette-contributors)
- <!--  - [Deployment](#triangular_flag_on_post-deployment) -->
 
 <!-- #### 🔴 Open the camera app on your device and scan the code below (live demo) -->
 
@@ -97,32 +74,15 @@ Yet to Publish :cry:
    <img src="./README_Images/settings.PNG" width="300" height="auto">
 </div>
 
-## :sparkles: Features
-- [x]  Create Posts 
-- [x] Take a picture from your camera  or camera library.
-- [x] Comment on Posts functionality.
-- [x] Like Posts functionality
--  [x] View all Posts functionality.
--  [x] Authentication functionality.
-- [x] Dark mode by default (Cause why not?)
-- [x] Ui clone
-- [x] Form validation
-- [ ] Profile image update functionality.
-- [x] Stack Navigation
--  [x] Tab Navigation
-
 
 ## :books: Tech
- What i used for the project.
 <details>
   <summary>Front End</summary>
   <ul>
-    <li><a href="https://www.typescriptlang.org/">Typescript</a></li>
+  
     <li><a href="https://docs.expo.dev/workflow/expo-cli">Expo</a></li>
     <li><a href="https://reactnative.dev">React Native</a></li>
-     <li><a href="https://formik.org/docs/guides/react-native">Formik</a></li>
-     <li><a href="https://www.npmjs.com/package/yup">Yup</a></li>
-     <li><a href="https://reactnavigation.org/docs/">React Navigation</a></li>
+    <li><a href="https://reactnavigation.org/docs/">React Navigation</a></li>
   </ul>
 </details>
 
@@ -140,7 +100,7 @@ Yet to Publish :cry:
 
 1. Clone my Repo
 ```bash
-  git clone https://github.com/Nathan-Somto/Instagram-RN-clone.git
+  git clone https://github.com/BernaDeryaDen/InstagramCloneApp.git
 
 ```
 2. Install Expo globally
@@ -152,7 +112,7 @@ npm install --global expo
 3. Enter into the Project
 
 ```bash
-   cd Instagram-RN-clone
+   cd Instagram-bdd-clone-main
 ```
 
 4. Install all dependencies
@@ -167,5 +127,6 @@ npm install --global expo
    expo start
 ```
 
-## :busts_in_silhouette: Contributors
-- [Nathan Somto](https://github.com/nathan-somto)
+# Expo Publish
+exp://exp.host/@brndryden/instagram-bdd-clone?release-channel=default
+https://expo.dev/accounts/brndryden/projects/instagram-bdd-clone
