@@ -38,4 +38,6 @@ npm install --global expo
 # Expo Publish
 exp://exp.host/@brndryden/instagram-bdd-clone?release-channel=default
 
+https://expo.dev/@brndryden/instagram-bdd-clone
+
 https://expo.dev/accounts/brndryden/projects/instagram-bdd-clone
